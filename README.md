@@ -4,4 +4,5 @@ In this repository are all the data used and the code made to carry out the stud
   - sensorama_df.ipynb: Data frame made from Sensorama_JSON.json data.
 - Scripts: 
   - sensorama_df.ipynb: 
-  - SVM.ipynb
+  - SVM.ipynb:
+  - RF.ipynb:
