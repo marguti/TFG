@@ -9,3 +9,5 @@ In this repository are all the data used and the code made to carry out the stud
   - RF_FI.ipynb:
   - DT.ipynb:
   - LR.ipynb:
+  - KNN.ipynb:
+ 
