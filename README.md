@@ -10,4 +10,11 @@ In this repository are all the data used and the code made to carry out the stud
   - DT.ipynb:
   - LR.ipynb:
   - KNN.ipynb:
- 
+  - OdorName_Level1.ipynb:
+  - OdorName_Level2.ipynb:
+  - OdorName_Level3.ipynb:
+  - OdorName_Level4.ipynb:
+  - OdorName_Level5.ipynb:
+  - OdorName_Level6.ipynb:
+  - OdorName_Level7.ipynb:
+  - OdorName_Level8.ipynb
