@@ -10,11 +10,11 @@ In this repository are all the data used and the code made to carry out the stud
   - DT.ipynb: jupyter notebook with odor level classifier algorithm using decision trees.
   - LR.ipynb: jupyter notebook with Logistic Regression algorithm for classifying odor levels.
   - KNN.ipynb: jupyter notebook with KNN algorithm searching the best k for every odor level classifier.
-  - OdorName_Level1.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 1. The aim is to classify the odor name.
-  - OdorName_Level2.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 2. The aim is to classify the odor name.
-  - OdorName_Level3.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 3. The aim is to classify the odor name.
-  - OdorName_Level4.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 4. The aim is to classify the odor name.
-  - OdorName_Level5.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 5. The aim is to classify the odor name.
-  - OdorName_Level6.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 6. The aim is to classify the odor name.
-  - OdorName_Level7.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 7. The aim is to classify the odor name.
-  - OdorName_Level8.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 8. The aim is to classify the odor name.
+  - L1_OdorName.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 1. The aim is to classify the odor name.
+  - L2_OdorName.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 2. The aim is to classify the odor name.
+  - L3_OdorName.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 3. The aim is to classify the odor name.
+  - L4_OdorName.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 4. The aim is to classify the odor name.
+  - L5_OdorName.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 5. The aim is to classify the odor name.
+  - L6_OdorName.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 6. The aim is to classify the odor name.
+  - L7_OdorName.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 7. The aim is to classify the odor name.
+  - L8_OdorName.ipynb: jupyter notebook with all the algorithms said before but using a reduced dataset containing only molecules from odor level 8. The aim is to classify the odor name.
